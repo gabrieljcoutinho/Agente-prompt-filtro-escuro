@@ -25,7 +25,8 @@
 
  * **Me entregeu a imagem original com o filtro nunca mude nada alem do filtro**
 
+```
+
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/56caaec6-ccec-48f5-b07e-d8c5e80a8f93" />
 <img width="1024" height="683" alt="image" src="https://github.com/user-attachments/assets/bfcfa6ec-8246-4de0-a37f-1e420c6ba877" />
 
-```
